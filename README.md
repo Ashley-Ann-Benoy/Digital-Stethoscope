@@ -26,7 +26,8 @@ We took a step-by-step approach.
 ![Screenshot 2025-04-01 205035](https://github.com/user-attachments/assets/310cc9ef-4899-44aa-a6ba-efcdcc17590b)
 ![Screenshot 2025-04-01 205024](https://github.com/user-attachments/assets/aa3de4de-1c26-4c6c-9281-6d6657d3f451)
 
-##  Hardware Set up 
+##  Hardware Set up
+
 ## Enclosure Box Design
 **Lid**
 ![image](https://github.com/user-attachments/assets/de61e62d-4c9b-4e15-9bb9-6538a19e1dd1)
