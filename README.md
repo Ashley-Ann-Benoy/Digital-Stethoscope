@@ -9,6 +9,9 @@ The sound is transmitted to an amplifier circuit via a condenser microphone.
 The amplified signal is then sent to the A0 ADC pin of the  ATmega328P microcontroller, where it is processed and displayed on the LCD screen.
 On the LCD screen, we display to waveform as well as the calculated BPM rate.
 ## Approach and Execution Flow
+We took a step-by-step approach.
+We started by simulating an amplifier circuit using LT Spice and tweaking the values to meet our requirements. We then put together the circuit on a breadboard to confirm our results.
+
 ## Simulation Results
 ![WhatsApp Image 2025-05-11 at 23 04 28](https://github.com/user-attachments/assets/676283ac-7c9b-4407-b349-a52547164ac3)
 
@@ -22,6 +25,7 @@ On the LCD screen, we display to waveform as well as the calculated BPM rate.
 
 ## Code logic explanation
 ## Further Improvements
+
 
 ##  Team Members  
 - **Ashley Ann Benoy** - EE23BTECH11204  
