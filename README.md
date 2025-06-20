@@ -26,7 +26,7 @@ We took a step-by-step approach.
 ![Screenshot 2025-04-01 205024](https://github.com/user-attachments/assets/aa3de4de-1c26-4c6c-9281-6d6657d3f451)
 
 ##  Hardware Set up 
-
+## Enclosure Box Design
 ## Code logic explanation
 ## Challenges Faced
 - Screen glitching and lag
