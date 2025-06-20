@@ -13,7 +13,8 @@ We took a step-by-step approach.
 - We started by simulating an amplifier circuit using LT Spice and tweaking the values to meet our requirements.
 - We then put together the circuit on a breadboard to confirm our results.
 - We then went ahead with schematic building on KiCAD 8.0. After which, we ran an ERC to check if everything was connected properly. This was followed by PCB layout and routing.
-- While doing the PCB Layout, we kept in mind to keep the analog and digital paths separate to minimize noise interference and preserve signal integrity. 
+- While doing the PCB Layout, we kept in mind to keep the analog and digital paths separate to minimize noise interference and preserve signal integrity.
+- 
 
 ## Simulation Results
 ![WhatsApp Image 2025-05-11 at 23 04 28](https://github.com/user-attachments/assets/676283ac-7c9b-4407-b349-a52547164ac3)
@@ -28,8 +29,11 @@ We took a step-by-step approach.
 
 ## Code logic explanation
 ## Challenges Faced
+- Screen glitching and lag
+- White screen
+- Custom Acoustic sensor is weak
+  
 ## Further Improvements
-
 
 ##  Team Members  
 - **Ashley Ann Benoy** - EE23BTECH11204  
