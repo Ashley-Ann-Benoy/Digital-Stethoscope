@@ -12,6 +12,8 @@ On the LCD screen, we display to waveform as well as the calculated BPM rate.
 We took a step-by-step approach.
 - We started by simulating an amplifier circuit using LT Spice and tweaking the values to meet our requirements.
 - We then put together the circuit on a breadboard to confirm our results.
+- We then went ahead with schematic building on KiCAD 8.0. After which we ran an ERC to check if everything was connected properly.
+- 
 
 ## Simulation Results
 ![WhatsApp Image 2025-05-11 at 23 04 28](https://github.com/user-attachments/assets/676283ac-7c9b-4407-b349-a52547164ac3)
@@ -25,6 +27,7 @@ We took a step-by-step approach.
 ##  Hardware Set up 
 
 ## Code logic explanation
+## Challenges Faced
 ## Further Improvements
 
 
