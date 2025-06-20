@@ -38,7 +38,6 @@ We took a step-by-step approach.
 ![image](https://github.com/user-attachments/assets/bbd7c41b-e042-41ba-9591-9a6e976e3755)
 
 
-## Code logic explanation
 ## Challenges Faced
 We encountered a few challenges, which we debugged and  tried to resolve through troubleshooting and testing.
 - Pin Header Size Mismatch: The pin headers on the PCB were smaller than expected and didn't fit the LCD TFT pins directly. We solved this by soldering the wires and using a perforated board.
