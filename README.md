@@ -40,9 +40,11 @@ We took a step-by-step approach.
 
 ## Code logic explanation
 ## Challenges Faced
-- Screen glitching and lag
-- White screen
-- Custom Acoustic sensor is weak
+We encountered a few challenges, which we debugged and  tried to resolve through troubleshooting and testing.
+- Pin Header Size Mismatch: The pin headers on the PCB were smaller than expected and didn't fit the LCD TFT pins directly. We solved this by soldering the wires and using a perforated board.
+- White screen: Caused due to too much power supply (5V) to the LED pin of the LCD screen, we resolved this by creating a separate path which had to 5V to 3.3V step down using a voltage regulator to the LED pin of the LCD screen.
+- Screen glitching and lag: Flashed the code again and ensured the power supply was proper.
+- Custom Acoustic sensor is picking up weak signals: Making the Tube shorter and trying to seal the gaps between the opening of the tube and the condenser microphone.
   
 ## Further Improvements
 We could perhaps implement a model to detect anomalies and irregularities, which would capture abnormal behavior and send alerts, which would give us a  more accurate and timely diagnosis.
