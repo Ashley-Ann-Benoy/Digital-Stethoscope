@@ -26,7 +26,7 @@ We took a step-by-step approach.
 ![Screenshot 2025-04-01 205035](https://github.com/user-attachments/assets/310cc9ef-4899-44aa-a6ba-efcdcc17590b)
 ![Screenshot 2025-04-01 205024](https://github.com/user-attachments/assets/aa3de4de-1c26-4c6c-9281-6d6657d3f451)
 
-##  Hardware Set up
+## Set up
 ![image](https://github.com/user-attachments/assets/53ad252c-7bdd-4381-a44e-74cb9b514ec9)
 ![hr_120](https://github.com/user-attachments/assets/9d0b57e3-d23f-4155-bbf6-cad080be3cab)
 ![hr_72](https://github.com/user-attachments/assets/98b5fd62-e0f1-4946-81f1-a8f5e208d4f0)
