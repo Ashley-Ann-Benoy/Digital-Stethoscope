@@ -28,7 +28,9 @@ We took a step-by-step approach.
 
 ##  Hardware Set up 
 ## Enclosure Box Design
+**Lid**
 ![image](https://github.com/user-attachments/assets/de61e62d-4c9b-4e15-9bb9-6538a19e1dd1)
+**Box**
 ![image](https://github.com/user-attachments/assets/bbd7c41b-e042-41ba-9591-9a6e976e3755)
 
 
