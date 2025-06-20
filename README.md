@@ -18,6 +18,10 @@ On the LCD screen, we display to waveform as well as the calculated BPM rate .
 ![Screenshot 2025-04-01 205035](https://github.com/user-attachments/assets/310cc9ef-4899-44aa-a6ba-efcdcc17590b)
 ![Screenshot 2025-04-01 205024](https://github.com/user-attachments/assets/aa3de4de-1c26-4c6c-9281-6d6657d3f451)
 
+##  Hardware Set up 
+
+## Code logic explanation
+## Further Improvements
 
 ##  Team Members  
 - **Ashley Ann Benoy** - EE23BTECH11204  
@@ -26,7 +30,7 @@ On the LCD screen, we display to waveform as well as the calculated BPM rate .
 - **Manugunta Meghana Sai** - EE23BTECH11212  
 - **Muthyala Nikhitha Sri** - EE23BTECH11213
 
-## System
+
 
 ## References
 https://circuitdigest.com/microcontroller-projects/diy-wireless-digital-stethoscope
