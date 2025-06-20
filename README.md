@@ -14,7 +14,7 @@ We took a step-by-step approach.
 - We then put together the circuit on a breadboard to confirm our results.
 - We then went ahead with schematic building on KiCAD 8.0. After which, we ran an ERC to check if everything was connected properly. This was followed by PCB layout and routing.
 - While doing the PCB Layout, we kept in mind to keep the analog and digital paths separate to minimize noise interference and preserve signal integrity.
-- We then flashed the code on the IC and  made the LCD TFT screen connections .
+- We then flashed the code on the IC and  made the LCD TFT screen connections.
 - We took measurements of the assembled setup and designed a compact enclosure with a lid, featuring cutouts for the acoustic sensor and a battery slot.
 
 ## Simulation Results
@@ -39,6 +39,7 @@ We took a step-by-step approach.
 - Custom Acoustic sensor is weak
   
 ## Further Improvements
+We could perhaps implement a model to detect anomalies and irregularities, which would capture abnormal behavior and send alerts, which would give us a  more accurate and timely diagnosis.
 
 ##  Team Members  
 - **Ashley Ann Benoy** - EE23BTECH11204  
