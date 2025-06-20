@@ -2,7 +2,7 @@
 A **digital stethoscope** that amplifies, filters, and digitally processes heart sounds for enhanced diagnostics and remote monitoring.  
 ## Project Outline
 We intend on developing a digital stethoscope system which includes an acoustic sensor that is attached to the processing unit, which will catch the signal, amplify it using an amplifier circuit using an op amp TL082.
-The amplified signal is then sent to the ATMEGA328-P, which then converts the analog signal to a digital one,which is then displayed as a waveform on the LCD TFT screen.  We intend to 3D print an enclosure which will offer mechanical support and keep the enclosure compact.
+The amplified signal is then sent to the ATMEGA328-P, which then converts the analog signal to a digital one, which is then displayed as a waveform on the LCD TFT screen. We also have a flash memory IC for storing waveforms and retrieving them later.  The entire step will be placed in a 3D-printed enclosure, which will offer mechanical support and keep the enclosure compact.
 ## Working
 The custom acoustic sensor is positioned on a pulse point of the body.
 The sound is transmitted to an amplifier circuit via a condenser microphone. 
@@ -12,8 +12,8 @@ On the LCD screen, we display to waveform as well as the calculated BPM rate.
 We took a step-by-step approach.
 - We started by simulating an amplifier circuit using LT Spice and tweaking the values to meet our requirements.
 - We then put together the circuit on a breadboard to confirm our results.
-- We then went ahead with schematic building on KiCAD 8.0. After which we ran an ERC to check if everything was connected properly.
-- 
+- We then went ahead with schematic building on KiCAD 8.0. After which, we ran an ERC to check if everything was connected properly. This was followed by PCB layout and routing.
+- While doing the PCB Layout, we kept in mind to keep the analog and digital paths separate to minimize noise interference and preserve signal integrity. 
 
 ## Simulation Results
 ![WhatsApp Image 2025-05-11 at 23 04 28](https://github.com/user-attachments/assets/676283ac-7c9b-4407-b349-a52547164ac3)
